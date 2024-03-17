@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning python full stack development<br>
+I am currently learning java full stack development<br>
 Reach out to me at santhoshgowdajb6362@gmail.com
 
 
